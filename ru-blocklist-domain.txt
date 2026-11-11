@@ -39,6 +39,7 @@ domain:avitocargo.ru
 domain:avitopro.ru
 domain:avitorealty.ru
 domain:beeline.ru
+domain:bitrix.info
 domain:belkacar.ru
 domain:berizaryad.ru
 domain:betboom.ru
