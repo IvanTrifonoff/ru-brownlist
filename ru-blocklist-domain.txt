@@ -222,6 +222,7 @@ domain:otkritie.ru
 domain:oz.by
 domain:ozon.by
 domain:ozon.com
+domain:ozonusercontent.com
 domain:ozon.de
 domain:ozon.dev
 domain:ozon.kz
