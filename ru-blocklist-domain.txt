@@ -322,6 +322,7 @@ domain:sbrf.com
 domain:sbrf.ru
 domain:servicepipe.ru
 domain:servicepipe.tech
+domain:selcloud.ru
 domain:sferum.ru
 domain:sfr.gov.ru
 domain:sitidrive.ru
