@@ -60,6 +60,7 @@ domain:csat.ru
 domain:cxhub.ru
 domain:delimobil.ru
 domain:deliveryclub.ru
+domain:dnevnik.ru
 domain:dellin.ru
 domain:detmir.ru
 domain:digital.gov.ru
