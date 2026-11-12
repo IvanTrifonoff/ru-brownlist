@@ -1,3 +1,4 @@
-213.59.254.7
 # 185.129.96.83 — RNA-STARLINE-SLNET, STARLINE ScPA Starline LLC, AS201511, RU, PTR bgp1.starline.ru — RU IP → geoip:ru → direct
 185.129.96.83
+# 213.59.254.7 — ROSTELECOM-AS PJSC Rostelecom, AS12389 — IP попал в direct мимо правил (проверить)
+213.59.254.7
