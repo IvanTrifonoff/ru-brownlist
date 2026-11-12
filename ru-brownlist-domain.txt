@@ -491,9 +491,8 @@ domain:yula.ru
 domain:yuwellanytime.co.uk
 domain:znanierussia.ru
 domain:zvuk.com
-domain:app.remarked.ru
+domain:remarked.ru
 domain:babysleeptracker.ru
-domain:rtc-cloud.bitrix24.tech
-domain:cloud.roistat.com
-domain:sentry.lo.lenta.tech
+domain:bitrix24.tech
+domain:roistat.com
 domain:lenta.tech
