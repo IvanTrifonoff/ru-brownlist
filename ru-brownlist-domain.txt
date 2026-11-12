@@ -351,6 +351,7 @@ domain:tass.ru
 domain:tbank.ru
 domain:tbankcloud.ru
 domain:t-bank-app.ru
+domain:t-bank-app.su
 domain:tcsbank.ru
 domain:tele2.ru
 domain:telega.info
