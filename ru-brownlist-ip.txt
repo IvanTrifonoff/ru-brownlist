@@ -12,3 +12,93 @@
 93.158.177.1
 # 185.129.100.50 — RU-LLCDDOS-GUARD-20151201, DDOS-GUARD DDOS-GUARD LTD, AS57724, RU, PTR ddos-guard.net — RU IP → geoip:ru → direct
 185.129.100.50
+# 109.120.182.255 — VKCS, VK-AS LLC VK, AS47764, RU — RU IP → geoip:ru → direct
+109.120.182.255
+# 142.251.156.6 — GOOGLE, GOOGLE - Google LLC, AS15169 — IP попал в direct мимо правил (проверить)
+142.251.156.6
+# 176.53.250.239 — SELECTEL-MSK JSC Selectel, AS50340 — IP попал в direct мимо правил (проверить)
+176.53.250.239
+# 176.57.64.200 — DDOS-GUARD DDOS-GUARD LTD, AS57724 — IP попал в direct мимо правил (проверить)
+176.57.64.200
+# 178.130.128.21 — RU-TINKOFF-MOBILE-LIR-20100315, TCS-AS "TBANK" JSC, AS43399, RU — RU IP → geoip:ru → direct
+178.130.128.21
+# 178.130.128.26 — RU-TINKOFF-MOBILE-LIR-20100315, TCS-AS "TBANK" JSC, AS43399, RU — RU IP → geoip:ru → direct
+178.130.128.26
+# 185.129.100.115 — DDOS-GUARD DDOS-GUARD LTD, AS57724, PTR ddos-guard.net — IP попал в direct мимо правил (проверить)
+185.129.100.115
+# 185.73.194.77 — OZONRU-DCZ1-NET3, OZON-AS LLC Internet Solutions, AS44386, RU — RU IP → geoip:ru → direct
+185.73.194.77
+# 185.73.195.108 — OZONRU-DCZ1-NET4, OZON-AS LLC Internet Solutions, AS44386, RU — RU IP → geoip:ru → direct
+185.73.195.108
+# 185.73.195.116 — OZONRU-DCZ1-NET4, OZON-AS LLC Internet Solutions, AS44386, RU — RU IP → geoip:ru → direct
+185.73.195.116
+# 185.73.195.136 — OZON-AS LLC Internet Solutions, AS44386 — IP попал в direct мимо правил (проверить)
+185.73.195.136
+# 188.72.103.103 — YCCDN Yandex.Cloud LLC, AS215013 — IP попал в direct мимо правил (проверить)
+188.72.103.103
+# 193.17.93.194 — RU-EDGECENTER-20210914, EdgeCenterLLC EdgeCenter LLC, AS210756, RU — RU IP → geoip:ru → direct
+193.17.93.194
+# 194.190.192.48 — COMFORTEL, YOUONLINE-AS "You Online" LLC, AS198580, RU, PTR ip-192-190-48.124.yonl.ru — RU IP → geoip:ru → direct
+194.190.192.48
+# 194.87.76.68 — TW-Cloud, TimeWeb-AS JSC "TIMEWEB", AS9123, RU — RU IP → geoip:ru → direct
+194.87.76.68
+# 194.9.211.128 — ECOM-BANK-NET-01092022, OZON-BANK-AS LLC OZON BANK, AS207986, RU, PTR undefined.hostname.localhost — RU IP → geoip:ru → direct
+194.9.211.128
+# 194.9.211.64 — OZON-BANK-AS LLC OZON BANK, AS207986, PTR undefined.hostname.localhost — IP попал в direct мимо правил (проверить)
+194.9.211.64
+# 194.9.211.96 — OZON-BANK-AS LLC OZON BANK, AS207986, PTR undefined.hostname.localhost — IP попал в direct мимо правил (проверить)
+194.9.211.96
+# 195.208.185.4 — Corpsoft24 JSC "Corp Soft", AS39337 — IP попал в direct мимо правил (проверить)
+195.208.185.4
+# 213.59.253.7 — ROSTELECOM-AS PJSC Rostelecom, AS12389 — IP попал в direct мимо правил (проверить)
+213.59.253.7
+# 2a00:1c28:2:2194::c — RASCOM-AS CJSC RASCOM, AS20764 — IP попал в direct мимо правил (проверить)
+2a00:1c28:2:2194::c
+# 2a00:1c28:2:2194::e — RASCOM-AS CJSC RASCOM, AS20764 — IP попал в direct мимо правил (проверить)
+2a00:1c28:2:2194::e
+# 31.130.143.131 — OZON-BANK-AS LLC OZON BANK, AS207986 — IP попал в direct мимо правил (проверить)
+31.130.143.131
+# 31.130.143.3 — ECOM-BANK-NET-11012024, OZON-BANK-AS LLC OZON BANK, AS207986, RU — RU IP → geoip:ru → direct
+31.130.143.3
+# 31.130.143.67 — ECOM-BANK-NET-11012024, OZON-BANK-AS LLC OZON BANK, AS207986, RU — RU IP → geoip:ru → direct
+31.130.143.67
+# 37.140.192.75 — REGRU-NETWORK, AS-REGRU "Domain names registrar REG.RU", Ltd, AS197695, RU, PTR server223.hosting.reg.ru — RU IP → geoip:ru → direct
+37.140.192.75
+# 46.235.53.67 — Corpsoft24 JSC "Corp Soft", AS39337 — IP попал в direct мимо правил (проверить)
+46.235.53.67
+# 46.235.53.69 — CORPSOFT, Corpsoft24 JSC "Corp Soft", AS39337, RU — RU IP → geoip:ru → direct
+46.235.53.69
+# 46.235.53.70 — CORPSOFT, Corpsoft24 JSC "Corp Soft", AS39337, RU — RU IP → geoip:ru → direct
+46.235.53.70
+# 74.125.110.167 — GOOGLE, GOOGLE - Google LLC, AS15169, PTR arn09s18-in-f7.1e100.net — IP попал в direct мимо правил (проверить)
+74.125.110.167
+# 74.125.110.170 — GOOGLE, GOOGLE - Google LLC, AS15169, PTR arn09s18-in-f10.1e100.net — IP попал в direct мимо правил (проверить)
+74.125.110.170
+# 81.27.242.142 — RASCOM-INET, RASCOM-AS CJSC RASCOM, AS20764, RU — RU IP → geoip:ru → direct
+81.27.242.142
+# 87.236.16.29 — BEGET-AS Beget LLC, AS198610, PTR ssl.kenny.beget.com — IP попал в direct мимо правил (проверить)
+87.236.16.29
+# 87.240.129.133 — VKONTAKTE-SPB-AS LLC VK, AS47541, PTR srv133-129-240-87.vk.com — IP попал в direct мимо правил (проверить)
+87.240.129.133
+# 87.240.132.67 — VKONTAKTE-SPB-AS LLC VK, AS47541, PTR srv67-132-240-87.vk.com — IP попал в direct мимо правил (проверить)
+87.240.132.67
+# 87.240.132.72 — VKONTAKTE-SPB-AS LLC VK, AS47541, PTR srv72-132-240-87.vk.com — IP попал в direct мимо правил (проверить)
+87.240.132.72
+# 87.240.132.78 — VKONTAKTE-FRONT, VKONTAKTE-SPB-AS LLC VK, AS47541, RU, PTR srv78-132-240-87.vk.com — RU IP → geoip:ru → direct
+87.240.132.78
+# 87.240.137.164 — VKONTAKTE-SPB-AS LLC VK, AS47541, PTR srv164-137-240-87.vk.com — IP попал в direct мимо правил (проверить)
+87.240.137.164
+# 91.207.140.149 — Alrosa-NET, Alrosa-AS PJSC ALROSA, AS48312, RU — RU IP → geoip:ru → direct
+91.207.140.149
+# 91.207.140.244 — Alrosa-NET, Alrosa-AS PJSC ALROSA, AS48312, RU — RU IP → geoip:ru → direct
+91.207.140.244
+# 91.215.43.152 — RU-LLCDDOS-GUARD, DDOS-GUARD DDOS-GUARD LTD, AS57724, RU — RU IP → geoip:ru → direct
+91.215.43.152
+# 93.186.225.194 — VKONTAKTE-SPB-AS LLC VK, AS47541 — IP попал в direct мимо правил (проверить)
+93.186.225.194
+# 93.186.226.69 — VKONTAKTE-FRONT, VKONTAKTE-SPB-AS LLC VK, AS47541, RU, PTR srv69-226-186-93.vk.com — RU IP → geoip:ru → direct
+93.186.226.69
+# 95.181.182.182 — EdgeCenterLLC EdgeCenter LLC, AS210756 — IP попал в direct мимо правил (проверить)
+95.181.182.182
+# 95.181.182.185 — RU-EDGECENTER-20090202, EdgeCenterLLC EdgeCenter LLC, AS210756, RU — RU IP → geoip:ru → direct
+95.181.182.185

@@ -496,3 +496,16 @@ domain:babysleeptracker.ru
 domain:bitrix24.tech
 domain:roistat.com
 domain:lenta.tech
+domain:docma.ru
+domain:clientomer.ru
+domain:securitylab.ru
+domain:consultant.ru
+domain:karely.ru
+domain:callibri.ru
+domain:mosgorzdrav.ru
+domain:haidev.ru
+domain:pt-webinar.ru
+domain:studilka.ru
+domain:haidev.ru
+domain:securitylab.ru
+domain:zarina.ru
