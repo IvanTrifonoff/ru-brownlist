@@ -168,6 +168,7 @@ domain:medtrum.com
 domain:megafon.ru
 domain:megamarket.kz
 domain:megamarket.ru
+domain:megamarket.tech
 domain:mgts.ru
 domain:mintsifry.ru
 domain:mk.ru
