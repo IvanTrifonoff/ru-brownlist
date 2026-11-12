@@ -202,6 +202,7 @@ domain:nalog.ru
 domain:nalog.xn--p1ai
 domain:naydex.net
 domain:nextmobile.ru
+domain:network-lc.ru
 domain:nic.ru
 domain:nornickel.ru
 domain:nornik.ru
