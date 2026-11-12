@@ -496,3 +496,4 @@ domain:babysleeptracker.ru
 domain:rtc-cloud.bitrix24.tech
 domain:cloud.roistat.com
 domain:sentry.lo.lenta.tech
+domain:lenta.tech
