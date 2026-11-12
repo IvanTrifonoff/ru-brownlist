@@ -4,3 +4,5 @@
 213.59.254.7
 # 77.88.7.54 — YANDEX-77-88-7-48, YANDEX YANDEX LLC, AS13238, RU, PTR iptel-mar-turn04-eth1.yndx.net — RU IP → geoip:ru → direct
 77.88.7.54
+# 195.209.81.157 — NGENIX, CCT-AS OOO "Sovremennye setevye tekhnologii", AS34879, RU, PTR cdn.ngenix.net — RU IP → geoip:ru → direct
+195.209.81.157
