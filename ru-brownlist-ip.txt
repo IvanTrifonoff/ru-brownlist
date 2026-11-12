@@ -6,3 +6,5 @@
 77.88.7.54
 # 195.209.81.157 — NGENIX, CCT-AS OOO "Sovremennye setevye tekhnologii", AS34879, RU, PTR cdn.ngenix.net — RU IP → geoip:ru → direct
 195.209.81.157
+# 37.220.163.239 — NGENIX-BEELINE-MSK-NET, CCT-AS OOO "Sovremennye setevye tekhnologii", AS34879, RU, PTR cdn.ngenix.net — RU IP → geoip:ru → direct
+37.220.163.239
