@@ -8,3 +8,5 @@
 195.209.81.157
 # 37.220.163.239 — NGENIX-BEELINE-MSK-NET, CCT-AS OOO "Sovremennye setevye tekhnologii", AS34879, RU, PTR cdn.ngenix.net — RU IP → geoip:ru → direct
 37.220.163.239
+# 93.158.177.1 — YANDEX-93-158-177-0, YANDEX YANDEX LLC, AS13238, RU, PTR network-lc.ru — RU IP → geoip:ru → direct
+93.158.177.1
