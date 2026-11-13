@@ -122,3 +122,5 @@
 87.250.251.183
 # 213.180.193.247 — YANDEX-213-180-193-0, YANDEX YANDEX LLC, AS13238, RU, PTR website.yandexcloud.net — RU IP → geoip:ru → direct
 213.180.193.247
+# 5.45.196.245 — YANDEX-5-45-196-0, YANDEX YANDEX LLC, AS13238, RU, PTR production-external-api.domyland.yandex.net — RU IP → geoip:ru → direct
+5.45.196.245
