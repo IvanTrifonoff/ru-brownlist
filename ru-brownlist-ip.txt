@@ -116,3 +116,5 @@
 128.75.236.108
 # 128.75.236.109 — RU-BEELINE-B2O-Customers-IP-NET, SOVAM-AS PJSC "Vimpelcom", AS3216, RU, PTR 128-75-236-109.broadband.corbina.ru — RU IP → geoip:ru → direct
 128.75.236.109
+# 95.163.218.197 — VK-FRONT, VK-AS LLC VK, AS47764, RU — RU IP → geoip:ru → direct
+95.163.218.197
