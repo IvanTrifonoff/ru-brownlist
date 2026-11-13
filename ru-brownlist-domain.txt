@@ -517,3 +517,4 @@ domain:kaspersky-labs.com
 domain:cardsmobile.ru
 domain:mindbox.ru
 domain:jivosite.com
+domain:geobasket.ru
