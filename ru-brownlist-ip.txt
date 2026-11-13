@@ -102,3 +102,5 @@
 95.181.182.182
 # 95.181.182.185 — RU-EDGECENTER-20090202, EdgeCenterLLC EdgeCenter LLC, AS210756, RU — RU IP → geoip:ru → direct
 95.181.182.185
+# 87.250.254.15 — YANDEX-87-250-254-0, YANDEX YANDEX LLC, AS13238, RU, PTR mapi.vs.market.yandex.net — RU IP → geoip:ru → direct
+87.250.254.15
