@@ -524,3 +524,4 @@ domain:taxiaid.org
 domain:driveawaytaxi.org
 domain:rostaxi.org
 domain:taxitax.org
+domain:avito.com
