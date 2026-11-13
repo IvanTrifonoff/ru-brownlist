@@ -112,3 +112,5 @@
 213.180.193.226
 # 194.190.168.1 — RU-MSK-IX-19950807, RIPN-NS5-RU-MSK Join-stock company "Internet Exchange"MSK-IX", AS43832, RU, PTR ntp.ix.ru — RU IP → geoip:ru → direct
 194.190.168.1
+# 128.75.236.108 — RU-BEELINE-B2O-Customers-IP-NET, SOVAM-AS PJSC "Vimpelcom", AS3216, RU, PTR 128-75-236-108.broadband.corbina.ru — RU IP → geoip:ru → direct
+128.75.236.108
