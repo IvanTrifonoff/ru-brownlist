@@ -110,3 +110,5 @@
 95.142.204.172
 # 213.180.193.226 — YANDEX-213-180-193-0, YANDEX YANDEX LLC, AS13238, RU, PTR report.appmetrica.yandex.net — RU IP → geoip:ru → direct
 213.180.193.226
+# 194.190.168.1 — RU-MSK-IX-19950807, RIPN-NS5-RU-MSK Join-stock company "Internet Exchange"MSK-IX", AS43832, RU, PTR ntp.ix.ru — RU IP → geoip:ru → direct
+194.190.168.1
