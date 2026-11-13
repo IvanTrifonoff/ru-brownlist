@@ -510,3 +510,4 @@ domain:haidev.ru
 domain:securitylab.ru
 domain:zarina.ru
 domain:paywb.com
+domain:stattech.ru
