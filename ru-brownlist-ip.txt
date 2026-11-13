@@ -104,3 +104,5 @@
 95.181.182.185
 # 87.250.254.15 — YANDEX-87-250-254-0, YANDEX YANDEX LLC, AS13238, RU, PTR mapi.vs.market.yandex.net — RU IP → geoip:ru → direct
 87.250.254.15
+# 213.180.204.177 — YANDEX-213-180-204-0, YANDEX YANDEX LLC, AS13238, RU, PTR ingest.monium.yandex — RU IP → geoip:ru → direct
+213.180.204.177
