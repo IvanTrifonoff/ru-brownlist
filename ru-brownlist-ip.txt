@@ -124,3 +124,5 @@
 213.180.193.247
 # 5.45.196.245 — YANDEX-5-45-196-0, YANDEX YANDEX LLC, AS13238, RU, PTR production-external-api.domyland.yandex.net — RU IP → geoip:ru → direct
 5.45.196.245
+# 5.61.15.158 — kodeks-line, CKR-AS "Center of Computor Research" JSC, AS199072, RU, PTR ip-5-61-15-158.kodeks.net — RU IP → geoip:ru → direct
+5.61.15.158
