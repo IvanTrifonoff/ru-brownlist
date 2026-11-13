@@ -118,3 +118,5 @@
 128.75.236.109
 # 95.163.218.197 — VK-FRONT, VK-AS LLC VK, AS47764, RU — RU IP → geoip:ru → direct
 95.163.218.197
+# 87.250.251.183 — YANDEX YANDEX LLC, AS13238, PTR sync.browser.yandex.net — IP попал в direct мимо правил (проверить)
+87.250.251.183
