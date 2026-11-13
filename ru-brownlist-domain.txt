@@ -514,3 +514,4 @@ domain:stattech.ru
 domain:sitesoft.ru
 domain:odkl.ru
 domain:kaspersky-labs.com
+domain:cardsmobile.ru
