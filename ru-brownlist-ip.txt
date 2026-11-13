@@ -120,3 +120,5 @@
 95.163.218.197
 # 87.250.251.183 — YANDEX YANDEX LLC, AS13238, PTR sync.browser.yandex.net — IP попал в direct мимо правил (проверить)
 87.250.251.183
+# 213.180.193.247 — YANDEX-213-180-193-0, YANDEX YANDEX LLC, AS13238, RU, PTR website.yandexcloud.net — RU IP → geoip:ru → direct
+213.180.193.247
