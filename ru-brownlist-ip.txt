@@ -142,3 +142,5 @@
 185.16.148.2
 # 176.101.88.19 — RU-WILDBERRIES, Wildberries-AS LLC Wildberries, AS57073, RU — RU IP → geoip:ru → direct
 176.101.88.19
+# 176.101.88.13 — RU-WILDBERRIES, Wildberries-AS LLC Wildberries, AS57073, RU — RU IP → geoip:ru → direct
+176.101.88.13
