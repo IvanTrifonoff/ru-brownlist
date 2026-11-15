@@ -14,8 +14,6 @@
 185.129.100.50
 # 109.120.182.255 — VKCS, VK-AS LLC VK, AS47764, RU — RU IP → geoip:ru → direct
 109.120.182.255
-# 142.251.156.6 — GOOGLE, GOOGLE - Google LLC, AS15169 — IP попал в direct мимо правил (проверить)
-142.251.156.6
 # 176.53.250.239 — SELECTEL-MSK JSC Selectel, AS50340 — IP попал в direct мимо правил (проверить)
 176.53.250.239
 # 176.57.64.200 — DDOS-GUARD DDOS-GUARD LTD, AS57724 — IP попал в direct мимо правил (проверить)
@@ -70,12 +68,6 @@
 46.235.53.69
 # 46.235.53.70 — CORPSOFT, Corpsoft24 JSC "Corp Soft", AS39337, RU — RU IP → geoip:ru → direct
 46.235.53.70
-# 74.125.110.167 — GOOGLE, GOOGLE - Google LLC, AS15169, PTR arn09s18-in-f7.1e100.net — IP попал в direct мимо правил (проверить)
-74.125.110.167
-# 74.125.110.170 — GOOGLE, GOOGLE - Google LLC, AS15169, PTR arn09s18-in-f10.1e100.net — IP попал в direct мимо правил (проверить)
-74.125.110.170
-# 81.27.242.142 — RASCOM-INET, RASCOM-AS CJSC RASCOM, AS20764, RU — RU IP → geoip:ru → direct
-81.27.242.142
 # 87.236.16.29 — BEGET-AS Beget LLC, AS198610, PTR ssl.kenny.beget.com — IP попал в direct мимо правил (проверить)
 87.236.16.29
 # 87.240.129.133 — VKONTAKTE-SPB-AS LLC VK, AS47541, PTR srv133-129-240-87.vk.com — IP попал в direct мимо правил (проверить)
