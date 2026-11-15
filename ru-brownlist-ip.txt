@@ -128,3 +128,5 @@
 5.61.15.158
 # 95.142.204.165 — VKONTAKTE-FRONT, VKONTAKTE-MSK-CDN-AS LLC VK, AS47542, RU, PTR srv165-204.vkontakte.ru — RU IP → geoip:ru → direct
 95.142.204.165
+# 94.126.205.1 — YACLOUDBMS Yandex.Cloud LLC, AS210656 — IP попал в direct мимо правил (проверить)
+94.126.205.1
