@@ -528,3 +528,4 @@ domain:avito.com
 domain:cdn-tinkoff.ru
 domain:x5media.ru
 domain:wibes.ru
+domain:dzeninfra.ru
