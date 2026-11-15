@@ -140,3 +140,5 @@
 92.255.126.144
 # 185.16.148.2 — ODNOKLASSNIKI-FRONT, VK-AS LLC VK, AS47764, RU, PTR ip2.148.16.185.odnoklassniki.ru — RU IP → geoip:ru → direct
 185.16.148.2
+# 176.101.88.19 — RU-WILDBERRIES, Wildberries-AS LLC Wildberries, AS57073, RU — RU IP → geoip:ru → direct
+176.101.88.19
