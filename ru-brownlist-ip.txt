@@ -138,3 +138,5 @@
 176.101.88.13
 # 176.101.88.28 — RU-WILDBERRIES, Wildberries-AS LLC Wildberries, AS57073, RU — RU IP → geoip:ru → direct
 176.101.88.28
+# 94.126.206.33 — RU-YANDEXCLOUD-20081001, RU — RU IP → geoip:ru → direct
+94.126.206.33
