@@ -530,3 +530,4 @@ domain:x5media.ru
 domain:wibes.ru
 domain:dzeninfra.ru
 domain:vc.ru
+domain:vkcs.cloud
