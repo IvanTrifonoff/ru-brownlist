@@ -140,3 +140,5 @@
 176.101.88.28
 # 94.126.206.33 — RU-YANDEXCLOUD-20081001, RU — RU IP → geoip:ru → direct
 94.126.206.33
+# 87.250.250.141 — YANDEX-87-250-250-0, RU, PTR narwhal.yandex.net — RU IP → geoip:ru → direct
+87.250.250.141
