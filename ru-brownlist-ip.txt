@@ -144,3 +144,5 @@
 87.250.250.141
 # 92.255.126.132 — YANDEX-92-255-126-0, YANDEX YANDEX LLC, AS13238, RU, PTR mskm9-ntp04v.ntppool.yandex.net — RU IP → geoip:ru → direct
 92.255.126.132
+# 77.88.55.88 — YANDEX-77-88-55-0, YANDEX YANDEX LLC, AS13238, RU, PTR yandex.ru — RU IP → geoip:ru → direct
+77.88.55.88
