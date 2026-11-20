@@ -531,3 +531,4 @@ domain:wibes.ru
 domain:dzeninfra.ru
 domain:vc.ru
 domain:vkcs.cloud
+domain:tamtam.chat
