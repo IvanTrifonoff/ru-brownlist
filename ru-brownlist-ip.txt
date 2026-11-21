@@ -152,3 +152,5 @@
 84.201.185.129
 # 51.250.74.170 — RU-YANDEXCLOUD, YandexCloud Yandex.Cloud LLC, AS200350, RU — RU IP → geoip:ru → direct
 51.250.74.170
+# 130.193.49.173 — RU-YANDEXCLOUD-20111026, YandexCloud Yandex.Cloud LLC, AS200350, RU — RU IP → geoip:ru → direct
+130.193.49.173
