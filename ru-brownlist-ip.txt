@@ -148,3 +148,5 @@
 77.88.55.88
 # 178.130.128.57 — RU-TINKOFF-MOBILE-LIR-20100315, RU — RU IP → geoip:ru → direct
 178.130.128.57
+# 84.201.185.129 — RU-YANDEXCLOUD-20110210-1, YandexCloud Yandex.Cloud LLC, AS200350, RU, PTR functions.yandexcloud.net — RU IP → geoip:ru → direct
+84.201.185.129
