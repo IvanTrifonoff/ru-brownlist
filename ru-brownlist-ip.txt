@@ -150,3 +150,5 @@
 178.130.128.57
 # 84.201.185.129 — RU-YANDEXCLOUD-20110210-1, YandexCloud Yandex.Cloud LLC, AS200350, RU, PTR functions.yandexcloud.net — RU IP → geoip:ru → direct
 84.201.185.129
+# 51.250.74.170 — RU-YANDEXCLOUD, YandexCloud Yandex.Cloud LLC, AS200350, RU — RU IP → geoip:ru → direct
+51.250.74.170
